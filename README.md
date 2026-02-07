@@ -109,6 +109,6 @@ data-warehouse-project/
 
 Hi there! I'm **Kapil Kumbhkar**, I am a B.Tech student in Artificial Intelligence & Data Science, graduating in 2025 from Jai Narain College of Technology, Bhopal.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+
 
 
